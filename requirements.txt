@@ -1,0 +1,22 @@
+# Core MLOps and Machine Learning Libraries
+mlflow
+scikit-learn
+lightgbm
+xgboost
+hyperopt
+
+# Data Processing and Analysis
+pandas
+numpy
+
+# Visualization Libraries
+matplotlib
+seaborn
+
+# Jupyter Environment
+jupyter
+notebook
+ipykernel
+
+# Database Backend for MLflow
+sqlalchemy
